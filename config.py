@@ -1,0 +1,2 @@
+LEN_TEXT = 48
+NUM_PLUGS = 10
