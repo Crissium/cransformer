@@ -2,6 +2,4 @@
 
 Crack ciphers with Transformer.
 
-# Usage
-
-To be documented.
+See my [blog post](https://blog.lecoteauverdoyant.co.uk/articles/Transformer-Ciphers.html) for details.
